@@ -16,4 +16,4 @@ Se utilizaran los siguientes supuestos:
 * Todas las letras del mensaje están en mayúsculas (nota: los romanos solo conocían las mayúsculas).
 
 ### Codigo
-* [encriptado](../Cifrado_Cesar/src/encriptado.py)
+* [encriptado](encriptado.py)
