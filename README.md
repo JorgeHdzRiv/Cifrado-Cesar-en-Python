@@ -17,3 +17,8 @@ Se utilizaran los siguientes supuestos:
 
 ### Codigo
 * [encriptado](encriptado.py)
+
+* [desencriptado](desencriptado.py)
+
+## Codigo de encriptacion mejorado
+.....
