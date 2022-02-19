@@ -43,7 +43,7 @@ Se muestra una imagen del recorrido deseado de acuerdo al rango de prueba para l
 
 ![](./images/cifradoizq.png)
 
-Resultado en codigo
+
 ![](./images/izqr.png)
 
 #### Recorrido derecha
@@ -52,7 +52,6 @@ El mismo mensaje y rango pero con la diferencia que supondremos que el usuario s
 Recorrido deseado
 ![](./images/cifradoder.png)
 
-Resultado
 ![](./images/der.png)
 
 Tengo la consideracion del que se podria mejorar y optimizar para otros requerimientos del usuario, ademas de que tratar los errores podria ser de gran utilidad para prevenir encriptacion erronea.
